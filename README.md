@@ -1,6 +1,5 @@
-# Engenharia de Software
-Este repo tem como objetivo de disseminar o conhecimento sobre alguns conceitos importantes para um engenheiro de software,
-além de servir como um guia para qualquer eventual consulta.
+# Software Engineer Guide
+Tem como objetivo dissiminar importantes conceitos sobre engenharia de software, focando apoiar desenvolvedores a se tornarem profissionais mais capacitados e evoluirem em sua carreira.
 
 ### Links
 1. [Rest Protocols](./rest-protocols.md) `Em breve`
