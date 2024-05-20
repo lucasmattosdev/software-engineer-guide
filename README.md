@@ -1,5 +1,5 @@
 # Software Engineer Guide
-Tem como objetivo dissiminar importantes conceitos sobre engenharia de software, focando apoiar desenvolvedores a se tornarem profissionais mais capacitados e evoluirem em sua carreira.
+Tem como objetivo dissiminar importantes conceitos sobre engenharia de software, focando em apoiar desenvolvedores a se tornarem profissionais mais capacitados e evoluirem em sua carreira.
 
 ### Links
 1. [Rest Protocols](./rest-protocols.md) `Em breve`
