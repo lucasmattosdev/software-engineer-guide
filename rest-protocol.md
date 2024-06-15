@@ -6,7 +6,7 @@ REST (Representational State Transfer) é um estilo de arquitetura amplamente ut
 
 ### Princípios Fundamentais do REST
 
-1. **Cliente-Servidor**: Separação de responsabilidades. O cliente lida com a interface do usuário e o servidor gerencia os dados e a lógica.
+1. **Cliente-Servidor**: Separação de responsabilidades, o cliente lida com a interface do usuário e o servidor gerencia os dados e a lógica.
 2. **Stateless**: Cada requisição do cliente para o servidor deve conter todas as informações necessárias para entender e processar o pedido. O servidor não deve armazenar o estado da sessão.
 3. **Cacheable**: Respostas podem marcadas como cacheáveis ou não para melhorar a eficiência da rede não exigindo novo processamento da mesma informação.
 4. **Interface Uniforme**: Define uma interface uniforme entre componentes, facilitando a interação e a independência entre sistemas.
