@@ -2,7 +2,7 @@
 Tem como objetivo dissiminar importantes conceitos sobre engenharia de software, focando em apoiar desenvolvedores a se tornarem profissionais mais capacitados e evoluirem em sua carreira.
 
 ### Links
-1. [Rest Protocols](./rest-protocols.md) `Em breve`
+1. [Rest Protocols](./rest-protocols.md)
 1. [Websocket Protocols](./rest-protocols.md) `Em breve`
 2. [Queue Service](./queue-service.md) `Em breve`
 2. [Monolith e Microservices](./monolith-e-microservices.md) `Em breve`
