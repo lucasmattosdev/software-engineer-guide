@@ -5,3 +5,4 @@
   - [Domain-Driven Design (DDD)](code-development/ddd)
   - [Test-Driven Development (TDD)](code-development/tdd)
   - [Design Patterns](code-development/design-patterns)
+  - [Data Structures](code-development/data-structures)
