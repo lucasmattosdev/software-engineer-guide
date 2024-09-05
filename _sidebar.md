@@ -7,3 +7,6 @@
   - [Design Patterns](code-development/design-patterns)
   - [Data Structures](code-development/data-structures)
   - [Code Review](code-development/code-review)
+
++ **Banco de Dados**
+  - [Database Performance](database/database-performance)
