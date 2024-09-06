@@ -14,3 +14,4 @@
 
 + **Infraestrutura**
   - [Monolithic e microservices](infraestructure/monolithic-microservices)
+  - [Queue Service](infraestructure/queue-service)
