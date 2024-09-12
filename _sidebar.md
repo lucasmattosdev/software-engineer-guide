@@ -8,14 +8,16 @@
   - [Data Structures](code-development/data-structures)
   - [Code Review](code-development/code-review)
 
++ **Microservice**
+  - [Queue Service](infraestructure/queue-service)
+  - [Outbox Pattern](infraestructure/outbox-pattern)
+
 + **Banco de Dados**
   - [Database Performance](database/database-performance)
   - [NoSQL](database/nosql)
-
+  
 + **Infraestrutura**
   - [Monolithic e microservices](infraestructure/monolithic-microservices)
-  - [Queue Service](infraestructure/queue-service)
-  - [Outbox Pattern](infraestructure/outbox-pattern)
   - [Docker e Kubernetes](infraestructure/docker-kubernetes)
 
 + **Security**
