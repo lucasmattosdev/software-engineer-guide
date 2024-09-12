@@ -15,6 +15,7 @@
 + **Infraestrutura**
   - [Monolithic e microservices](infraestructure/monolithic-microservices)
   - [Queue Service](infraestructure/queue-service)
+  - [Outbox Pattern](infraestructure/outbox-pattern)
   - [Docker e Kubernetes](infraestructure/docker-kubernetes)
 
 + **Security**
