@@ -11,6 +11,7 @@
 + **Microservice**
   - [Queue Service](microservice/queue-service)
   - [Outbox Pattern](microservice/outbox-pattern)
+  - [Idempotency Pattern](microservice/idempotency-pattern)
 
 + **Banco de Dados**
   - [Database Performance](database/database-performance)
