@@ -10,6 +10,7 @@
 
 + **Microservice**
   - [Queue Service](microservice/queue-service)
+  - [Event-Driven Design](microservice/event-driven-design)
   - [Outbox Pattern](microservice/outbox-pattern)
   - [Idempotency Pattern](microservice/idempotency-pattern)
 
