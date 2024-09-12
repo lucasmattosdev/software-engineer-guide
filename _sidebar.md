@@ -6,6 +6,7 @@
   - [Test-Driven Development (TDD)](code-development/tdd)
   - [Design Patterns](code-development/design-patterns)
   - [Data Structures](code-development/data-structures)
+  - [Paralelismo e Concorrência](code-development/parallelism-concurrency)
   - [Code Review](code-development/code-review)
 
 + **Microservice**
