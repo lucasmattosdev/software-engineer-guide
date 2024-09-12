@@ -57,8 +57,6 @@ Aqui está um exemplo de como implementar o Outbox Pattern em Java, usando uma a
 Primeiro, você cria a tabela **Outbox** no banco de dados.
 
 ```sql
-sql
-Copy code
 CREATE TABLE outbox (
     id BIGINT AUTO_INCREMENT PRIMARY KEY,
     event_type VARCHAR(255),
