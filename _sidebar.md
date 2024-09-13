@@ -15,6 +15,9 @@
   - [Outbox Pattern](microservice/outbox-pattern)
   - [Idempotency Pattern](microservice/idempotency-pattern)
 
++ **Workflow**
+  - [Gitflow](workflow/gitflow)
+
 + **Banco de Dados**
   - [Database Performance](database/database-performance)
   - [NoSQL](database/nosql)
