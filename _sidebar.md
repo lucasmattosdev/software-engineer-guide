@@ -17,6 +17,7 @@
 
 + **Workflow**
   - [Gitflow](workflow/gitflow)
+  - [CI/CD](workflow/ci-cd)
 
 + **Banco de Dados**
   - [Database Performance](database/database-performance)
