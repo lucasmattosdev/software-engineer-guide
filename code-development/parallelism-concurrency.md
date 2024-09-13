@@ -54,8 +54,6 @@ O Java possui suporte nativo para **concorrência** por meio da classe `Thread` 
 ### Exemplo: Concorrência com Threads
 
 ```java
-java
-Copy code
 public class ConcurrentExample {
 
     public static void main(String[] args) {
@@ -104,8 +102,6 @@ Para aproveitar o **paralelismo**, você pode utilizar a **API de streams parale
 ### Exemplo: Paralelismo com Streams Paralelos
 
 ```java
-java
-Copy code
 import java.util.Arrays;
 import java.util.List;
 
