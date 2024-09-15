@@ -18,6 +18,7 @@
 + **Workflow**
   - [Gitflow](workflow/gitflow)
   - [CI/CD](workflow/ci-cd)
+  - [Project Documentation](workflow/project-documentation)
 
 + **Banco de Dados**
   - [ACID Properties](database/acid-properties)
