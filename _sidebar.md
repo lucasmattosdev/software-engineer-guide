@@ -9,6 +9,7 @@
   - [Paralelismo e Concorrência](code-development/parallelism-concurrency)
   - [Code Review](code-development/code-review)
   - [API Design](code-development/api-design)
+  - [Realtime Design](code-development/realtime-design)
 
 + **Microservice**
   - [Queue Service](microservice/queue-service)
