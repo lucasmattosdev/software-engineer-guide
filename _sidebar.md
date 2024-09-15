@@ -30,6 +30,7 @@
 + **Infraestrutura**
   - [Monolithic e microservices](infraestructure/monolithic-microservices)
   - [Docker e Kubernetes](infraestructure/docker-kubernetes)
+  - [Application Monitoring](infraestructure/application-monitoring)
 
 + **Security**
   - [Application Security](security/application-security)
