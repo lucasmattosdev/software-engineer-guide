@@ -20,6 +20,7 @@
   - [CI/CD](workflow/ci-cd)
 
 + **Banco de Dados**
+  - [ACID Properties](database/acid-properties)
   - [Database Performance](database/database-performance)
   - [NoSQL](database/nosql)
 
