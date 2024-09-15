@@ -16,8 +16,9 @@
   - [Idempotency Pattern](microservice/idempotency-pattern)
 
 + **Workflow**
-  - [Gitflow](workflow/gitflow)
   - [CI/CD](workflow/ci-cd)
+  - [Gitflow](workflow/gitflow)
+  - [Gestão de Tarefas](workflow/task-management)
   - [Project Documentation](workflow/project-documentation)
 
 + **Banco de Dados**
