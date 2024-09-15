@@ -14,6 +14,7 @@
   - [Event-Driven Design](microservice/event-driven-design)
   - [Outbox Pattern](microservice/outbox-pattern)
   - [Idempotency Pattern](microservice/idempotency-pattern)
+  - [Circuit Breaker](microservice/circuit-breaker)
 
 + **Workflow**
   - [CI/CD](workflow/ci-cd)
