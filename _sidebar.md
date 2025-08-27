@@ -1,4 +1,4 @@
-+ **Desenvolvimento de código**
++ **Code Development**
   - [SOLID Principles](code-development/solid-principles)
   - [Clean Code](code-development/clean-code)
   - [Clean Architecture](code-development/clean-architecture)
@@ -24,12 +24,12 @@
   - [Gestão de Tarefas](workflow/task-management)
   - [Project Documentation](workflow/project-documentation)
 
-+ **Banco de Dados**
++ **Database**
   - [ACID Properties](database/acid-properties)
   - [Database Performance](database/database-performance)
   - [NoSQL](database/nosql)
 
-+ **Infraestrutura**
++ **Infraestructure**
   - [Monolithic e microservices](infraestructure/monolithic-microservices)
   - [Docker e Kubernetes](infraestructure/docker-kubernetes)
   - [Application Monitoring](infraestructure/application-monitoring)
